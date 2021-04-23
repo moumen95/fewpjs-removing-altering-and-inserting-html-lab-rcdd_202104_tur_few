@@ -4,4 +4,4 @@ main.remove();
 
 let newHeader = document.createElement('h1');
 document.body.appendChild(newHeader);
-h1.id = "victory";
+newHeader.id = "victory";
