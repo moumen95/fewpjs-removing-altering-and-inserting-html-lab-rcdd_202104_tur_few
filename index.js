@@ -1,2 +1,3 @@
 // Write your code here!
-#main.remove();
+const main = document.getElementById("main");
+main.remove();
